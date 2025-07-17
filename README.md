@@ -56,7 +56,6 @@ A fully functional, responsive, and visually appealing frontend for a Gemini-sty
 📁 src/
 │
 ├── assets/ # Images and static assets
-├── components/ # Reusable UI components (toggle, loader, etc.)
 ├── pages/
 │ ├── Login.jsx
 │ ├── Dashboard.jsx
