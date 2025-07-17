@@ -1,3 +1,4 @@
+# Netlify Link --> https://kuvakagenaichatbot.netlify.app/
 # Gemini AI Chat App 💬✨
 
 A fully functional, responsive, and visually appealing frontend for a Gemini-style conversational AI chat app — built with **React**, **Redux**, **React Hook Form**, **Zod**, and modern CSS. The app features OTP login, chatroom management, AI-like chat simulation, image uploads, dark mode, and much more.
