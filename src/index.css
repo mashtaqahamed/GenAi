@@ -1,0 +1,49 @@
+body.dark {
+  background: #121212;
+  color: #f0f0f0;
+}
+.dark .login-form,
+.dark .dashboard-container,
+.dark .chatroom-container,
+.dark .chat-window {
+  background-color: #1e1e1e;
+  color: #eee;
+}
+.dark input,
+.dark select,
+.dark button {
+  background-color: #333;
+  color: white;
+  border: 1px solid #555;
+}
+.dark .chatroom-card {
+  background: #2c2c2c;
+}
+.dark .message.user {
+  background: #005f73;
+}
+.dark .message.gemini {
+  background: #9b2226;
+}
+.dark .dark-toggle {
+  position: fixed;
+  top: 15px;
+  right: 15px;
+  z-index: 1000;
+}
+
+body {
+  margin: 0;
+  font-family: 'Segoe UI', sans-serif;
+  background: #f8f9fa;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+.container {
+  max-width: 1200px;
+  margin: auto;
+  padding: 1rem;
+}
